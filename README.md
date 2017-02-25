@@ -6,7 +6,7 @@ Includes python file (tournament.py) that contains necessary functions to run a 
 
 # **Submodules & Libraries Used:**
     * tournament.psql
-        * Includes PostgreSQL tables used in program: players, matches, scoreboard
+        * Includes PostgreSQL tables used in program (players, matches) and views used in program (matches_won, matches_lost, standings)
     * tournament_test.py
         * Python program to test functionality of project functions
 
